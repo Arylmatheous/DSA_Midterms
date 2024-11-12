@@ -77,3 +77,23 @@ In the above image, let's go over some of the elements you'll see there.
 - Your React package and any additional packages you may install while working on your React project are stored in the `node module` folder. Your React project's design system can be configured with the help of the `node module`.
 - As can be seen in the above image, the `src` folder constains all of the files and components used in your react application, including `App.js`, `index.js`, and `App.css`.
 - To assist you manage dependencies in your React project, the `package-lock.json` file locks the versions of dependencies that your project uses.
+
+## What us the purpose of React JS?
+
+React JS is designed to help developers build fast, interactive user interfaces with a focus on modularity and efficiency. Key purpose include:
+- **Efficient UI Rendering**: The virtual DOM minimizes direct updates, enhancing speed and performance.
+- **Reusable Components**: Components make code modular, maintainable, and scalable.
+- **Declarative Programming**: The declarative syntax allows developers to focus on what the UI should look like, simplifying coding and debugging.
+
+## Where is React JS used?
+
+React is commonly used in:
+- **Web Applications**: For SPAs that need fast, dynamic interfaces without full page reloads.
+- **Mobile Applications**: With React Native, developers can build native mobile apps using React principles.
+- **Enterprise Applications**: Many large-scale applications benefit from React's modular, efficient architecture.
+- **Interactive UIs**: Ideal for dashboards, e-commerce sites, and social media feeds that require frequent updates and interactivity.
+
+## References:
+- https://www.freecodecamp.org/news/how-to-install-react-a-step-by-step-guide/?fbclid=IwY2xjawGf_alleHRuA2FlbQIxMAABHVeUVZmGFqzHW4k3AYiQa-hQlvki-oq0TDPlOQ4sBfWU4V3FGG2vCJagzA_aem_pZy6iUslQ5-dFkYukL0WUA
+- https://www.geeksforgeeks.org/what-are-the-features-of-reactjs/
+- https://jaydevs.com/what-is-react-used-for/
