@@ -20,7 +20,7 @@ Go to the [Node.js website](https://nodejs.org/en/) to install Node. You can cho
 
 ![Download Node.js](https://www.freecodecamp.org/news/content/images/2024/01/Node.js.png)
 
-*Source: https://www.freecodecamp.org/news/content/images/2024/01/Node.js.png*
+*Source: https://www.freecodecamp.org/news/how-to-install-react-a-step-by-step-guide/?fbclid=IwY2xjawGf_alleHRuA2FlbQIxMAABHVeUVZmGFqzHW4k3AYiQa-hQlvki-oq0TDPlOQ4sBfWU4V3FGG2vCJagzA_aem_pZy6iUslQ5-dFkYukL0WUA*
 
 *Node.js web page interface*
 
@@ -57,3 +57,23 @@ In the image above, you can see that I am navigating to the `documents` director
 Make a folder in the `documents` directory (or wherever you're creating your project) for your React app. Type `mkdir [folder name]`, then use `cd [newly created folder name]` to navigate to the newly created directory.
 
 Type `npx create-react-app [project name of your choice]` in the newly created folder directory, then wait as your React project is successfully created. The final section should have the text in the image below displayed:
+
+![Complete Installation](https://www.freecodecamp.org/news/content/images/2024/01/React-project-2-1.png)
+
+*Source: https://www.freecodecamp.org/news/how-to-install-react-a-step-by-step-guide/?fbclid=IwY2xjawGf_alleHRuA2FlbQIxMAABHVeUVZmGFqzHW4k3AYiQa-hQlvki-oq0TDPlOQ4sBfWU4V3FGG2vCJagzA_aem_pZy6iUslQ5-dFkYukL0WUA*
+
+*React complete installation in the terminal*
+
+Finally, type `code .` to launch the React project in your code editor. If you are using Visual Studio Code, your code editor should look like this:
+
+![Display](https://www.freecodecamp.org/news/content/images/2024/01/Welcome---reactproject---Visual-Studio-Code-1_30_2024-8_39_40-PM.png)
+
+*Source: https://www.freecodecamp.org/news/how-to-install-react-a-step-by-step-guide/?fbclid=IwY2xjawGf_alleHRuA2FlbQIxMAABHVeUVZmGFqzHW4k3AYiQa-hQlvki-oq0TDPlOQ4sBfWU4V3FGG2vCJagzA_aem_pZy6iUslQ5-dFkYukL0WUA*
+
+*React Complete Installation Display Using CRA*
+
+In the above image, let's go over some of the elements you'll see there.
+
+- Your React package and any additional packages you may install while working on your React project are stored in the `node module` folder. Your React project's design system can be configured with the help of the `node module`.
+- As can be seen in the above image, the `src` folder constains all of the files and components used in your react application, including `App.js`, `index.js`, and `App.css`.
+- To assist you manage dependencies in your React project, the `package-lock.json` file locks the versions of dependencies that your project uses.
