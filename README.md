@@ -14,4 +14,32 @@ React is an open-source Javascript library that helps you build dynamic user int
 ## How to set-up React JS?
 
 ### Step 1: Install Node.js
-Node.js must be installed on your computer before you can begin the React installation procedure. You can read more about Node.js <a href="https://www.freecodecamp.org/news/what-is-node-js/" target="_blank">here</a> if you're unfamiliar with it.
+Node.js must be installed on your computer before you can begin the React installation procedure. You can read more about Node.js [here](https://www.freecodecamp.org/news/what-is-node-js/) if you're unfamiliar with it.
+
+Go to the [Node.js website](https://nodejs.org/en/) to install Node. You can choose to download the current version or the suggested version from their website, as seen in the picture below.
+
+![Download Node.js](https://www.freecodecamp.org/news/content/images/2024/01/Node.js.png)
+
+*Source: https://www.freecodecamp.org/news/content/images/2024/01/Node.js.png*
+
+*Node.js web page interface*
+
+After you have downloaded the version of your choice, install it on your computer.
+
+To verify that Node has been installed correctly, open your command prompt when the installation is finished. In your command prompt, type `node -v`, and then press Enter. The version of Node that is currently installed on your computer should be shown by this command.
+
+Here is what it looks like:
+
+![Command Prompt](https://www.freecodecamp.org/news/content/images/2024/01/node-version-1.png)
+
+*Source: https://www.freecodecamp.org/news/content/images/2024/01/node-version-1.png*
+
+*Node version displayed in the command prompt*
+
+If your Node version appears as seen above, congratulations! Node.js has been successfully installed on your PC.
+
+## Step 2. Install React
+Now you can go ahead and install React into your project. Let's go through steps together.
+
+To get you familiar with procedure, we'll start by examining the "traditional" method of installing React using create-react-app (CPA).
+
