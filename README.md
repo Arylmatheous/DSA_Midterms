@@ -32,7 +32,7 @@ Here is what it looks like:
 
 ![Command Prompt](https://www.freecodecamp.org/news/content/images/2024/01/node-version-1.png)
 
-*Source: https://www.freecodecamp.org/news/content/images/2024/01/node-version-1.png*
+*Source: https://www.freecodecamp.org/news/how-to-install-react-a-step-by-step-guide/?fbclid=IwY2xjawGf_alleHRuA2FlbQIxMAABHVeUVZmGFqzHW4k3AYiQa-hQlvki-oq0TDPlOQ4sBfWU4V3FGG2vCJagzA_aem_pZy6iUslQ5-dFkYukL0WUA*
 
 *Node version displayed in the command prompt*
 
@@ -43,3 +43,17 @@ Now you can go ahead and install React into your project. Let's go through steps
 
 To get you familiar with procedure, we'll start by examining the "traditional" method of installing React using create-react-app (CPA).
 
+### Using CPA
+Select the directory you wish to use to create your React project while you are still in your command prompt window. Type `cd [directory name]` and then press Enter.
+
+![cd documents](https://www.freecodecamp.org/news/content/images/2024/01/Screenshot-1_30_2024-9_53_23-AM.png)
+
+*Source: https://www.freecodecamp.org/news/how-to-install-react-a-step-by-step-guide/?fbclid=IwY2xjawGf_alleHRuA2FlbQIxMAABHVeUVZmGFqzHW4k3AYiQa-hQlvki-oq0TDPlOQ4sBfWU4V3FGG2vCJagzA_aem_pZy6iUslQ5-dFkYukL0WUA*
+
+*`cd documents` command to go to `documents` directory*
+
+In the image above, you can see that I am navigating to the `documents` directory, where I want to create my React project.
+
+Make a folder in the `documents` directory (or wherever you're creating your project) for your React app. Type `mkdir [folder name]`, then use `cd [newly created folder name]` to navigate to the newly created directory.
+
+Type `npx create-react-app [project name of your choice]` in the newly created folder directory, then wait as your React project is successfully created. The final section should have the text in the image below displayed:
