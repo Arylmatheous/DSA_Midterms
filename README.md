@@ -10,3 +10,8 @@ React is an open-source Javascript library that helps you build dynamic user int
 - **JSX (JavaScript Syntax Extension)**: JSX is a combination of JavaScript and HTML. It makes your code easy and understand since you can embed Javascript objects inside the HTML elements. Because browsers do not support JSX, the code is transcompiled into JavaScript by the Babel compiler.
 - **One-way Data Binding**: As implied by the name, one-way data binding is a one-way flow. React only allows data to flow in one direction: from parent components to child components, or from top to bottom. The child component's properties (props) can communicate with the parent components to change the states based on the inputs supplied, but they are unable to return the data to the parent component.
 - **Extension**: We can construct whole UI applications with React's various extensions. It offers server-side rendering and facilitates the development of mobile apps. Flux, Redux, React Native, and other extensions for React allow us design visually appealing user interfaces.
+
+## How to set-up React JS?
+
+### Step 1: Install Node.js
+Node.js must be installed on your computer before you can begin the React installation procedure. You can read more about Node.js <a href="https://www.freecodecamp.org/news/what-is-node-js/" target="_blank">here</a> if you're unfamiliar with it.
